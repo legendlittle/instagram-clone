@@ -8,14 +8,13 @@ function App() {
 
 
       <div className="app__header">
-        <img
-          className="app__headerImage"
+        <img className="app__headerImage"
           src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo-768x480.png"
           alt=""
         />
       </div>
 
-      <h1> Hello</h1>
+      <h1> Daily</h1>
 
       <Post />
       
